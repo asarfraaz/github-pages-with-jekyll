@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: allposts
 title: Blog
 subtitle: What did we learn today ??
 ---
